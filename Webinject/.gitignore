@@ -1,0 +1,17 @@
+Makefile
+inc
+META.yml
+blib
+pm_to_blib
+MANIFEST
+Makefile.old
+http.log
+results.html
+results.xml
+testcases.xml.*.tmp
+check_webinject
+webinject.pl
+MANIFEST.bak
+MYMETA.json
+MYMETA.yml
+README
